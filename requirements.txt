@@ -1,0 +1,7 @@
+# Core dependencies for the OCR server
+
+torch
+torchvision
+easyocr
+Flask
+Pillow
